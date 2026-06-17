@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Albuquerque Cabral 👋
+# Olá, eu sou o Gabriel Albuquerque 👋
 
 Buscando oportunidades de **Estágio em Desenvolvimento de Software (Front-End / Full-Stack)**.
 
