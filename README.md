@@ -1,9 +1,14 @@
 ## Hi there 👋
 
-<!--
-**LeirbagAC/LeirbagAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- Card de Estatísticas Gerais -->
+  <img height="180" src="https://github-readme-stats-mu-liard-69.vercel.app/api?username=LeirbagAC&show_icons=true&theme=radical&include_all_commits=true" />
+  
+  <!-- Card de Linguagens Mais Usadas -->
+  <img height="180" src="https://github-readme-stats-mu-liard-69.vercel.app/api/top-langs/?username=LeirbagAC&layout=compact&theme=radical" />
+</p>
 
-Here are some ideas to get you started:
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
